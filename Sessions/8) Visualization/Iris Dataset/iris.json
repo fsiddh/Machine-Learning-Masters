@@ -1,0 +1,9 @@
+{
+  "columns": [
+    { "name": "sepal_length", "type": "number", "label": "Sepal Length" },
+    { "name": "sepal_width",  "type": "number", "label": "Sepal Width" },
+    { "name": "petal_length", "type": "number", "label": "Petal Length" },
+    { "name": "petal_width",  "type": "number", "label": "Petal Width" },
+    { "name": "species",      "type": "string", "label": "Species" }
+  ]
+}
