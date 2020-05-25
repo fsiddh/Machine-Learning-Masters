@@ -1,0 +1,43 @@
+
+
+<!-- Created on Mon Apr  8 12:58:22 2019
+
+@author: Jiwitesh_Sharma
+-->
+
+<link rel="stylesheet" href="/static/style.css" type="text/css">
+{% block body %}
+
+<script>
+<!-- alert("Welcome!") -->
+function alertText(){
+ alert("Please wait while we downloading the images for you")
+}
+</script>
+<div class="btn-group">
+  <!-- <button id = "button1" class="btn btn-primary" onclick="window.location.href = 'http://127.0.0.1:8000/searchData';">Show Review Data</button> -->
+<!-- <button id = "button2" class="btn btn-primary btn-block" onclick="location.href = 'http://127.0.0.1:8000/searchResult.html';">Search Images In DB</button> -->
+
+</div>
+
+<form action="/searchImages" method="POST">
+	<div class="user-input">
+		<div class="login-screen">
+			<div class="app-title">
+				<h1>Download Images From Web</h1>
+			</div>
+ 
+			<div class="login-form">
+				<div class="control-group">
+				<input style="width:800px" type="text" class="login-field"  required="" placeholder="Enter keyword" name="keyword"></br>
+				<input type="submit" value="Submit" onlcikc="alertText()" class="btn btn-primary btn-large btn-block" >
+			    <br>
+				</div>
+			   
+			</div>
+			
+		</div>
+	</div>
+</form>
+
+{% endblock %}
