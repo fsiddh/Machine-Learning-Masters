@@ -1,0 +1,27 @@
+import json
+import urllib3
+
+http=urllib3.PoolManager()
+
+def lambda_handler(event, context):
+    # TODO implement
+    #print('recieved request: ',+str(event))
+    product=event['currentIntent']['slots']['product_name']
+    reviews=get_reviews(product)
+    response ={
+    "dialogAction": {
+    	"type": "Close",
+    	"fulfillmentState" : "Fulfilled",
+    	"message": {
+    		"contentType": "SSML",
+    		"content": "{} Please let us know if we can assist you with any other information.".format(json.dumps(reviews))
+    	    },
+        }
+    }
+    return response
+
+def get_reviews(product):
+    data=json.dumps(product).encode('utf-8')
+    response=http.request('POST',"http://613e67ebefdd.ngrok.io/review",headers={'Content-Type':'application/json'},body=data)
+    #print(response)
+    return response.data.decode('utf-8')

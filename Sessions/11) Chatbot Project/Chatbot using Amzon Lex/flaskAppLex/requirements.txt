@@ -1,0 +1,17 @@
+beautifulsoup4==4.8.1
+bs4==0.0.1
+certifi==2019.11.28
+chardet==3.0.4
+Click==7.0
+Flask==1.1.1
+Flask-Cors==3.0.8
+idna==2.8
+itsdangerous==1.1.0
+Jinja2==2.10.3
+MarkupSafe==1.1.1
+requests==2.22.0
+six==1.13.0
+soupsieve==1.9.5
+urllib3==1.25.7
+Werkzeug==0.16.0
+wincertstore==0.2
