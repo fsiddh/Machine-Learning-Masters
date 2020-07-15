@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block head %}
+  <title>Prediction Page</title>
+
+  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+  <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}"> -->
+
+{% endblock %}
+
+{% block body %}
+  
+<div class="p-3 mb-2 bg-dark text-white text-dark">
+  <div class="container">
+    <div class="jumbotron">
+      <h1 class="display-4">Prediction</h1>
+      <hr class="my-4">
+      <p class="lead">Your Chances for admission into your Dream College is <strong> {{prediction}}% </strong> </p>
+    </div>  
+  </div>
+</div>
+{% endblock %}
