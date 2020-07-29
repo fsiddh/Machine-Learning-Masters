@@ -42,7 +42,25 @@ def index():
     else:
         return render_template('index.html')
 
-
+@app.route('/from_postman', methods=['POST'])
+def from_postman():
+    gre_score=float(request.json['gre_score'])
+    toefl_score = float(request.json['toefl_score'])
+    university_rating = float(request.json['university_rating'])
+    sop = float(request.json['sop'])
+    lor = float(request.json['lor'])
+    cgpa = float(request.json['cgpa'])
+    is_research = request.json['research']
+    if(is_research=='yes'):
+        research=1
+    else:
+        research=0
+    filename = 'finalized_model.pickle'
+    loaded_model = pickle.load(open(filename, 'rb')) # loading the model file from the storage
+    # predictions using the loaded model file
+    prediction=loaded_model.predict([[gre_score,toefl_score,university_rating,sop,lor,cgpa,research]])
+    print('prediction is', prediction)
+    return jsonify({"Prediction":prediction[0]})
 
 if __name__ == "__main__":
     #app.run(host='127.0.0.1', port=8001, debug=True)
