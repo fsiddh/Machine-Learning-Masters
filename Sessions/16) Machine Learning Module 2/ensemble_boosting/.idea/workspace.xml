@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52ce4403-f801-48cc-9d15-edfc9609298a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="6a3ee546-02e5-4070-baf0-ba936f633745" />
+  <component name="ProjectId" id="1W0hIzUyXu4glLFP7q6jKb3cj99" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ensemble_boosting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52ce4403-f801-48cc-9d15-edfc9609298a" name="Default Changelist" comment="" />
+      <created>1578292344126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578292344126</updated>
+      <workItem from="1578292348099" duration="3049000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1485" height="199" key="GridCell.Tab.0.bottom" timestamp="1578295733357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="199" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578295733357" />
+    <state width="1485" height="199" key="GridCell.Tab.0.center" timestamp="1578295733357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="199" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578295733357" />
+    <state width="1485" height="199" key="GridCell.Tab.0.left" timestamp="1578295733356">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="199" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578295733356" />
+    <state width="1485" height="199" key="GridCell.Tab.0.right" timestamp="1578295733357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="199" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578295733357" />
+    <state x="176" y="0" key="SettingsEditor" timestamp="1578292469208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="176" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578292469208" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ensemble_boosting$main.coverage" NAME="main Coverage Results" MODIFIED="1578295514722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

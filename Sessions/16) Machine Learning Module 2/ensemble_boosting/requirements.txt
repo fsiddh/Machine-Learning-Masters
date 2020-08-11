@@ -1,0 +1,15 @@
+certifi==2019.11.28
+Click==7.0
+Flask==1.1.1
+Flask-Cors==3.0.8
+itsdangerous==1.1.0
+Jinja2==2.10.3
+joblib==0.14.1
+MarkupSafe==1.1.1
+numpy==1.18.0
+scikit-learn==0.22.1
+scipy==1.4.1
+six==1.13.0
+Werkzeug==0.16.0
+wincertstore==0.2
+xgboost==0.90
