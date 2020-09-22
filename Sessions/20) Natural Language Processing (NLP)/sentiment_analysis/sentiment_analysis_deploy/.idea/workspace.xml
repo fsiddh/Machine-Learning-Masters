@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0be0e217-9d36-44fb-bf64-ad74ac574ee6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/rouge" />
+  </component>
+  <component name="ProjectId" id="1V0HDIolal6lN6cCIP8NpPkEH88" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\TwitterSentimentAnalysis\com_in_ineuron_ai_utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="C:\Users\user\PycharmProjects\TwitterSentimentAnalysis\com_in_ineuron_ai_utils" />
+      <recent name="C:\Users\user\PycharmProjects\TwitterSentimentAnalysis\com_in_ineuron_ai_training" />
+      <recent name="C:\Users\user\PycharmProjects\TwitterSentimentAnalysis\com_in_ineuron_ai_prediction" />
+      <recent name="C:\Users\user\PycharmProjects\TwitterSentimentAnalysis" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.clientApp">
+    <configuration name="Rogue_implementation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TwitterSentimentAnalysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rogue_implementation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clientApp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TwitterSentimentAnalysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clientApp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TwitterSentimentAnalysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TwitterSentimentAnalysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com_in_ineuron_ai_training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com_in_ineuron_ai_training/trainApp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TwitterSentimentAnalysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com_in_ineuron_ai_utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com_in_ineuron_ai_utils/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.clientApp" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.Rogue_implementation" />
+        <item itemvalue="Python.utils" />
+        <item itemvalue="Python.train" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0be0e217-9d36-44fb-bf64-ad74ac574ee6" name="Default Changelist" comment="" />
+      <created>1576382972534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576382972534</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/rouge" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Inspections" timestamp="1576577349586">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1576577349586" />
+    <state x="667" y="159" width="642" height="787" key="#clientApp" timestamp="1576771984787">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="667" y="159" width="642" height="787" key="#clientApp/67.27.1853.1053@67.27.1853.1053" timestamp="1576771984787" />
+    <state x="1106" y="189" width="351" height="586" key="#xdebugger.evaluate" timestamp="1579080123641">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="560" y="66" width="524" height="595" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1576592291673" />
+    <state x="819" y="131" width="485" height="595" key="#xdebugger.evaluate/0.0.1366.768@0.0.1366.768" timestamp="1576756230004" />
+    <state x="1106" y="189" key="#xdebugger.evaluate/0.0.1536.834@0.0.1536.834" timestamp="1579080123641" />
+    <state x="1401" y="265" width="351" height="586" key="#xdebugger.evaluate/67.27.1853.1053@67.27.1853.1053" timestamp="1576907091155" />
+    <state width="1087" height="466" key="DebuggerActiveHint" timestamp="1576775915160">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1087" height="466" key="DebuggerActiveHint/67.27.1853.1053@67.27.1853.1053" timestamp="1576775915160" />
+    <state x="521" y="142" width="424" height="484" key="FileChooserDialogImpl" timestamp="1578427207770">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576585371922" />
+    <state x="521" y="142" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1578427207770" />
+    <state x="695" y="206" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1576783449703" />
+    <state width="1515" height="256" key="GridCell.Tab.0.bottom" timestamp="1579080924612">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576659739674" />
+    <state width="1345" height="238" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1576757278056" />
+    <state width="1515" height="256" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579080924612" />
+    <state width="1830" height="334" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1576907694172" />
+    <state width="1515" height="256" key="GridCell.Tab.0.center" timestamp="1579080924612">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576659739673" />
+    <state width="1345" height="238" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1576757278056" />
+    <state width="1515" height="256" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1579080924612" />
+    <state width="1830" height="334" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1576907694172" />
+    <state width="1515" height="256" key="GridCell.Tab.0.left" timestamp="1579080924612">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576659739672" />
+    <state width="1345" height="238" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1576757278056" />
+    <state width="1515" height="256" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1579080924612" />
+    <state width="1830" height="334" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1576907694171" />
+    <state width="1515" height="256" key="GridCell.Tab.0.right" timestamp="1579080924612">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576659739674" />
+    <state width="1345" height="238" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1576757278056" />
+    <state width="1515" height="256" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1579080924612" />
+    <state width="1830" height="334" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1576907694172" />
+    <state width="1515" height="256" key="GridCell.Tab.1.bottom" timestamp="1579080924613">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576651656827" />
+    <state width="1345" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1576757278056" />
+    <state width="1515" height="256" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579080924613" />
+    <state width="1830" height="334" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1576907694173" />
+    <state width="1515" height="256" key="GridCell.Tab.1.center" timestamp="1579080924612">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1576651656827" />
+    <state width="1345" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1576757278056" />
+    <state width="1515" height="256" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1579080924612" />
+    <state width="1830" height="334" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1576907694173" />
+    <state width="1515" height="256" key="GridCell.Tab.1.left" timestamp="1579080924612">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1576651656827" />
+    <state width="1345" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1576757278056" />
+    <state width="1515" height="256" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1579080924612" />
+    <state width="1830" height="334" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1576907694173" />
+    <state width="1515" height="256" key="GridCell.Tab.1.right" timestamp="1579080924612">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1576651656827" />
+    <state width="1345" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1576757278056" />
+    <state width="1515" height="256" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1579080924612" />
+    <state width="1830" height="334" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1576907694173" />
+    <state x="207" y="13" key="SettingsEditor" timestamp="1578427723441">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="184" y="12" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576585384723" />
+    <state x="184" y="26" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1576384360803" />
+    <state x="207" y="13" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1578427723441" />
+    <state x="317" y="44" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1576772519433" />
+    <state width="691" height="392" key="XDebugger.FullValuePopup" timestamp="1576756293055">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="691" height="392" key="XDebugger.FullValuePopup/0.0.1366.768@0.0.1366.768" timestamp="1576756293055" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rouge/rouge/rouge_score.py</url>
+          <line>247</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com_in_ineuron_ai_training/trainApp.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com_in_ineuron_ai_training/trainApp.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com_in_ineuron_ai_utils/utils.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/clientApp.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/clientApp.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+
+---
+applications:
+- name: twitterSentimentAnalysis
+  memory: 1024MB
+  disk_quota: 2GB
+  random-route: true
+  parameters:
+    memory: 1024M
+    buildpack: 'python_buildpack'
