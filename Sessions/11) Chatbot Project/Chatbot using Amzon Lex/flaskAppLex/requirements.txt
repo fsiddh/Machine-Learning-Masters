@@ -7,7 +7,7 @@ Flask==1.1.1
 Flask-Cors==3.0.8
 idna==2.8
 itsdangerous==1.1.0
-Jinja2==2.10.3
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 requests==2.22.0
 six==1.13.0
