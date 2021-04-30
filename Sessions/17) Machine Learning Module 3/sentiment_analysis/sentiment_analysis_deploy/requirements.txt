@@ -28,7 +28,7 @@ sklearn==0.0
 spacy==2.2.3
 srsly==0.2.0
 thinc==7.3.1
-urllib3==1.25.7
+urllib3==1.25.8
 wasabi==0.4.2
 Werkzeug==0.16.0
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz
