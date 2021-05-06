@@ -3,7 +3,7 @@ bs4==0.0.1
 certifi==2019.9.11
 Click==7.0
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 gunicorn==20.0.4
 itsdangerous==1.1.0
 Jinja2==2.10.3
