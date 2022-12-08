@@ -1,6 +1,6 @@
 beautifulsoup4==4.8.1
 bs4==0.0.1
-certifi==2019.9.11
+certifi==2022.12.7
 Click==7.0
 Flask==1.1.1
 Flask-Cors==3.0.8
